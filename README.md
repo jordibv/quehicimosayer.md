@@ -1,4 +1,4 @@
-# Dentro de la caja.md
+# Dentro de la caja
 Dentro de la caja
 
 1- Quitamos los tornillos que lo dejamos en el teclado para que no perderlos.
