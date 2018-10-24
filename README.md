@@ -1,17 +1,23 @@
 # quehicimosayer.md
-Abrimos la caja del ordenador  con llave detornillador quitamos los tornillos y lo dejamos en el teclado para que no se pierdan. Tenemos que tener en cuenta de la parte que abrimos y para poderla abrir tenemos que empujar hacia nosotros y luego ya sale casi sola.
+Dentro de la caja
 
-Identificamos el modelo de Placa base, vimos si tenía dual channel (que no tenía) y si podía,
+1- Quitamos los tornillos que lo dejamos en el teclado para que no perderlos.
+ con un llavedestornillador de la tabla lateral correcta , movemos hacia nosotros.
 
- también identificamos la ventilación que está encima de la placa y debajo está la cpu lo que hace que el la calor con el ventilador suba para arriba lo que hace que el otro ventilador la saque de fuera.
+2-Lo primero que observamos fue Placa base y localizar los componentes, vimos si tenía dual channel (que no tenía) y que si podía, que la CPU estaba debajo del ventilador lo que provocaba que el calor subiese y el otro ventilador lo quitase hacia furera.
 
- vimos 2 cables negro y amarillo que eran para ayudar a la cpu
+3- tambien vimos 2 cables negro y amarillo que eran para ayudar a la cpu
 
-también encontramos otros 2 cables naranja y blanco que eran para encender el ordenador, usamos un tester para hacer  pruebas de continuidad  nos dimos cuenta de que si pitaba cuando tocabamos el botón de encender era que tenía continuidad y si no funciona era porque el cable fallaba en algún punto. También encontramos el botón  de reiniciar en el caso de nuestros ordenadores podemos usarlo  con el boli y haciendo un poco de presión 
-hay dos símbolos AC alterna y DC continua
+4-encontramos otros 2 cables naranja y blanco  y vimos el manual de la placa que eran para encender el ordenador, utilizamos la prueba de continuidad con el tester, nos dimos cuenta de que si pitaba cuando tocabamos el botón de encender era que tenía continuidad y si no funciona era porque el cable fallaba en algún punto. 
 
-Lo siguiente que hicimos es hablar de la pasta térmica, y vimos cual era la manera de aplicarla correctamente ya que si pones en exceso pueden dañar más componentes.
+5- aprendimos que hay dos símbolos AC que es alterna y DC que es continua
 
-También hicimos una prueba con power supply que sirve básicamente para detectar  para saber la potencia de la fuente.
 
-Después de eso aprendimos que algunas cosas como aparatos tan importantes y te pueden ayudar tanto en tu vida laborar como reparador de PC que es fundamental tener como mínimo cierto material
+
+6- si no pitaba el ordenador significaba que el botón de encendido no funcionaba, entonces lo que podíamos hacer que era cambiar el boton de reiniciar y ponerlo a encender pero tendríamos que abrir con un boli por el boton de reiniciar
+
+7- hablamos de la pasta térmica, y vimos cual era la manera de aplicarla correctamente ya que si pones en exceso pueden dañar más componentes.
+
+8-Hicimos una prueba con power supply que sirve básicamente para detectar  para saber la potencia de la fuente.
+
+9-Volvimos a poner los tornillos y la tapa de la caja
